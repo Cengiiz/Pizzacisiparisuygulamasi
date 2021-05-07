@@ -1,0 +1,10 @@
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\bin\Debug\Pizzacim.exe.config
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\bin\Debug\Pizzacim.exe
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\bin\Debug\Pizzacim.pdb
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\obj\Debug\Pizzacim.csprojAssemblyReference.cache
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\obj\Debug\Pizzacim.Form1.resources
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\obj\Debug\Pizzacim.Properties.Resources.resources
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\obj\Debug\Pizzacim.csproj.GenerateResource.cache
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\obj\Debug\Pizzacim.csproj.CoreCompileInputs.cache
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\obj\Debug\Pizzacim.exe
+C:\Users\Coder\source\repos\Pizzacim\Pizzacim\obj\Debug\Pizzacim.pdb
